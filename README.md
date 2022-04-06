@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Additon 
+this task was got by https://github.com/somebox-ru/test_project_frontend/
