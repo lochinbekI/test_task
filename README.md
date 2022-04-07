@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Additon 
-this task was got by https://github.com/somebox-ru/test_project_frontend/
+this task was got from https://github.com/somebox-ru/test_project_frontend/
